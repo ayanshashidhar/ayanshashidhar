@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Python, HTML, JavaScript, CoffeeScript, R, CSS, blah, blah, blah
 - 🌱 I’m currently learning ... a bit of R.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... don't 😉
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... i'm a black belt in taekwondo
 
